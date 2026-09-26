@@ -6,10 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-<<<<<<< HEAD
+
     "dist": "vite build",
-=======
->>>>>>> 1f003bf2262e65d9ffa35a8af8bc15460be67833
+
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
