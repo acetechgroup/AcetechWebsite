@@ -173,7 +173,7 @@ const Footer = () => {
         <div className='bder2'></div>
       </div>
       <div className='ms-5 pb-3'>
-      <i className="bi bi-c-circle"></i> 2024 by Acetech Work Organization Pvt. Ltd.. All rights reserved
+      <i className="bi bi-c-circle"></i> 2026 by Acetech Work Organization Pvt. Ltd.. All rights reserved
       </div>
     </div>
   )
