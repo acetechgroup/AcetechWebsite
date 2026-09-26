@@ -162,7 +162,7 @@ const Footer = () => {
               </div>
               <div className='fw-bold'>
                 <div>
-                  <i className="bi bi-telephone-fill me-2"></i> 8779673576
+                  <i className="bi bi-telephone-fill me-2"></i> 9731903053
                 </div>
                 <div><i className="bi bi-envelope-fill me-2"></i> info@acetechgroups.com</div>
               <div className='d-flex'><i className="bi bi-geo-alt-fill me-2"></i> <div>Dive Pearl, Ground Floor, Airoli Sector-8a,Navi Mumbai,Maharastra-400708</div></div>
