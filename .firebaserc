@@ -1,5 +1,9 @@
 {
   "projects": {
+<<<<<<< HEAD
     "default": "acetech-6fdd2"
+=======
+    "default": "acetech-web"
+>>>>>>> 1f003bf2262e65d9ffa35a8af8bc15460be67833
   }
 }
