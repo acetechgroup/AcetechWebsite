@@ -7,6 +7,9 @@ import Layout from './Layout';
 import Home from './Components/Home';
 import About from './Components/About';
 import ContactUs from './Components/ContactUs';
+import Career from './Components/Career';
+import Blog from './Components/Blog';
+import Store from './Components/Store'; 
 
 function App() {
   
@@ -19,6 +22,9 @@ function App() {
             <Route path='' element={<Home />} />
             <Route path='/about' element={<About />} />
             <Route path='/contact-us' element={<ContactUs />} />
+            <Route path='/career' element={<Career />} />
+            <Route path='/blog' element={<Blog />} />
+            <Route path='/store' element={<Store />} />
           </Route>
         </Routes>
       </BrowserRouter>

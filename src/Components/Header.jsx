@@ -304,9 +304,21 @@ const Header = () => {
               </li>
             </ul>
           </li>
-          <li><a href="#">Store</a></li>
-          <li><a href="#">Blog</a></li>
-          <li><a href="#">Career</a></li>
+          <li>
+            <NavLink to="/store">
+              Store
+            </NavLink>
+          </li>
+          <li>
+            <NavLink to="/blog">
+              Blog
+            </NavLink>
+          </li>
+          <li>
+            <NavLink to="/career">
+              Career
+            </NavLink>
+          </li>
           <li>
             <NavLink to="/contact-us">
               Contact Us
